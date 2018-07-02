@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package io.openshift.booster;
+package com.doniv.samples.rest;
 
 import java.net.URL;
 
